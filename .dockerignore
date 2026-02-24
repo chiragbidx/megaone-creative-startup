@@ -1,0 +1,21 @@
+# git metadata
+.git
+.gitignore
+
+# deps / builds
+node_modules
+dist
+build
+coverage
+
+# logs / temp
+*.log
+logs
+tmp
+*.tmp
+
+# editor & OS cruft
+.DS_Store
+*.swp
+.idea
+.vscode
